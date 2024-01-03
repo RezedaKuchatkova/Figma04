@@ -126,7 +126,7 @@
 
 
 .header {
-    background-image: url("../Figma4/images/дом.png");
+    background-image: url("./images/Home.png");
     background-repeat: no-repeat; 
     background-size: contain;   
 }
