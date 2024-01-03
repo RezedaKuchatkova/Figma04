@@ -126,9 +126,20 @@
 
 
 .header {
-    background-image: url("./images/Home.png");
+ 
+    background-image: url(./images/Derevo-bez-fona.png), url(./images/home-1.png), url(./images/Derevo-bez-fona\ \(1\).png);
     background-repeat: no-repeat; 
-    background-size: contain;   
+    
+    ackground-repeat: no-repeat, no-repeat;
+    background-position: left, center;
+    background-size: auto, cover;
+    color: #423f3f;
+    position: relative;
+    top: 0;
+    left: 0;
+    min-width: 1160px;
+    height: 1300px;
+
 }
 
 .logo h2 {
